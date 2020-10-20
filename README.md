@@ -1,1 +1,1 @@
-# jiexi_dramarecommendation_bot
+# jiexi_kdramarecommendation_bot
